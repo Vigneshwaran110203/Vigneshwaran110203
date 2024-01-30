@@ -26,11 +26,6 @@ I'm a passionate and dedicated student pursuing a degree in B.E. Electronics and
 - Synchronization
 - Process Mapping
 
-## 🌐 Projects
-
-- [Project 1 Name](Project 1 GitHub Link)
-- [Project 2 Name](Project 2 GitHub Link)
-
 ## 🌱 Goals
 
 I am eagerly exploring the endless possibilities in web development and constantly seeking opportunities to contribute, learn, and grow. I am particularly excited about Web Development & UX/UI Designer
