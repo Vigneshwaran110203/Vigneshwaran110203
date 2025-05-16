@@ -39,6 +39,6 @@ I am eagerly exploring the endless possibilities in web development and constant
 
 Feel free to explore my projects and connect with me. I'm open to collaborations, discussions, and anything related to innovation in the world of code.
 
-Connect with me on [LinkedIn](https://in.linkedin.com/in/vigneshwaran-vimalkumar) | Follow me on [Instagram](https://www.instagram.com/_negative_shades_17/)
+Connect with me on [LinkedIn](https://in.linkedin.com/in/vigneshwaran-vimalkumar)
 
 Thanks for stopping by! 🚀
