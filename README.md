@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate and dedicated student pursuing a degree in B.E. Electronics and Communication Engineering at Meenakshi Sundararajan Engineering College. My journey revolves around the exciting world of web development, where I strive to blend creativity with technology.
+I'm a B.E. Electronics and Communication Engineering graduate at Meenakshi Sundararajan Engineering College. My journey revolves around the exciting world of web development, where I strive to blend creativity with technology.
 
 ## 💻 Tech Stack
 
@@ -10,6 +10,11 @@ I'm a passionate and dedicated student pursuing a degree in B.E. Electronics and
 - CSS
 - JavaScript
 - React.js
+- Node.js
+- Express.js
+- MongoDB
+- Go
+- MySQL
 - Bootstrap
 - Tailwind
 - Figma
