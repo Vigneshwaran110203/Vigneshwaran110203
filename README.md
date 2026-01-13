@@ -1,24 +1,13 @@
 ## Hi, I’m Vigneshwaran 👋
 
-I’m a Software Developer with around one year of experience building modern and responsive web applications. I enjoy creating clean user interfaces, writing efficient backend logic, and turning ideas into simple, functional digital experiences.
+I’m a software developer with a strong interest in building modern, responsive, and user-friendly web applications. I enjoy working across the frontend and backend, focusing on clean design, efficient code, and smooth user experiences. My technical interests include frontend frameworks, backend APIs, database-driven applications, and identity-based systems. I like learning new technologies, improving existing solutions, and building things that are simple, reliable, and scalable.
 
 ### 🛠 Tech Stack
 - **Frontend:** React.js, Vue.js, Hugo, HTML, CSS, Tailwind CSS  
 - **Backend:** Go (Gin), Node.js, Express.js  
-- **Database:** MySQL, SQLite  
-- **Tools & Design:** Git, Figma, Inkscape, VsCode  
-- **Other:** REST APIs, Authentication Systems, SCIM 2.0 (User & Group Provisioning)
-
-### 💼 Experience Highlights
-- Worked on UI redesigns and responsive web layouts  
-- Built authentication systems with Go and MySQL  
-- Implemented SCIM 2.0 provisioning for users and groups with Okta  
-- Migrated legacy UI frameworks to modern versions (Vuetify 3)  
-
-### 🚀 What I’m Focused On
-- Improving frontend performance and usability  
-- Writing clean, maintainable code  
-- Learning scalable backend and identity management systems  
+- **Database:** MySQL, SQLite, MongoDB  
+- **Tools & Design:** Git, Figma, Inkscape, VSCode  
+- **Other:** REST APIs, Authentication Systems, SCIM 2.0 (User & Group Provisioning)  
 
 ### 🌐 Portfolio
 🔗 [https://vv17.netlify.app](https://vv17.netlify.app)  
