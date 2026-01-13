@@ -1,44 +1,30 @@
-# Hi there! 👋 I'm Vigneshwaran Vimalkumar
+## Hi, I’m Vigneshwaran 👋
 
-## 🚀 About Me
+I’m a Software Developer with around one year of experience building modern and responsive web applications. I enjoy creating clean user interfaces, writing efficient backend logic, and turning ideas into simple, functional digital experiences.
 
-I'm a B.E. Electronics and Communication Engineering graduate at Meenakshi Sundararajan Engineering College. My journey revolves around the exciting world of web development, where I strive to blend creativity with technology.
+### 🛠 Tech Stack
+- **Frontend:** React.js, Vue.js, Hugo, HTML, CSS, Tailwind CSS  
+- **Backend:** Go (Gin), Node.js, Express.js  
+- **Database:** MySQL, SQLite  
+- **Tools & Design:** Git, Figma, Inkscape, VsCode  
+- **Other:** REST APIs, Authentication Systems, SCIM 2.0 (User & Group Provisioning)
 
-## 💻 Tech Stack
+### 💼 Experience Highlights
+- Worked on UI redesigns and responsive web layouts  
+- Built authentication systems with Go and MySQL  
+- Implemented SCIM 2.0 provisioning for users and groups with Okta  
+- Migrated legacy UI frameworks to modern versions (Vuetify 3)  
 
-- HTML
-- CSS
-- JavaScript
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Go
-- MySQL
-- Bootstrap
-- Tailwind
-- Figma
-- Canva
-- Adobe XD
-- VSCode
-- GitHub
+### 🚀 What I’m Focused On
+- Improving frontend performance and usability  
+- Writing clean, maintainable code  
+- Learning scalable backend and identity management systems  
 
-## 🌟 Skills
+### 🌐 Portfolio
+🔗 [https://vv17.netlify.app](https://vv17.netlify.app)  
 
-- Frontend Web Development
-- UX/UI Design
-- Leadership
-- Synchronization
-- Process Mapping
+### 📫 Connect With Me
+- LinkedIn: [https://www.linkedin.com/in/vigneshwaran-vimalkumar/](https://www.linkedin.com/in/vigneshwaran-vimalkumar/) 
+- GitHub: [https://github.com/Vigneshwaran110203](https://github.com/Vigneshwaran110203)  
 
-## 🌱 Goals
-
-I am eagerly exploring the endless possibilities in web development and constantly seeking opportunities to contribute, learn, and grow. I am particularly excited about Web Development & UX/UI Designer
-
-## 🤝 Let's Connect!
-
-Feel free to explore my projects and connect with me. I'm open to collaborations, discussions, and anything related to innovation in the world of code.
-
-Connect with me on [LinkedIn](https://in.linkedin.com/in/vigneshwaran-vimalkumar)
-
-Thanks for stopping by! 🚀
+> Always learning, building, and improving — one project at a time.
